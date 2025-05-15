@@ -1,0 +1,5 @@
+PyMuPDF
+reportlab
+pdfplumber
+python-docx
+pandas
